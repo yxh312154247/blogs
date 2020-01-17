@@ -18,7 +18,7 @@
     <properties>
         <java.version>1.8</java.version>
         <mysql.version>8.0.11</mysql.version>
-        <fastjson.version>1.2.15</fastjson.version>
+        <fastjson.version>1.2.25</fastjson.version>
         <mybatsi-plus.version>2.2.0</mybatsi-plus.version>
         <druid.version>1.1.3</druid.version>
         <lombok.version>1.18.10</lombok.version>
